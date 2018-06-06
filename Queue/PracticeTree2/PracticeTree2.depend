@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501388577 source:c:\sakshi\algorithms\queue\practicetree2\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

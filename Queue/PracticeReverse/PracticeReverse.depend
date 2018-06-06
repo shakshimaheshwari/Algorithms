@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477720155 source:c:\sakshi\algorithms\queue\practicereverse\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<stdlib.h>
+

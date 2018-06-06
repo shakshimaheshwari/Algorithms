@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500850935 source:c:\sakshi\algorithms\queue\adobeassignment\main.cpp
+	<iostream>
+	<vector>
+	<assert.h>
+

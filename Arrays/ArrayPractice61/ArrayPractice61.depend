@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468361593 source:c:\sakshi\algorithms\arrays\arraypractice61\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

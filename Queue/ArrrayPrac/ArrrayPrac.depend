@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486952761 source:c:\sakshi\algorithms\queue\arrrayprac\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<climits>
+	<math.h>
+	<algorithm>
+	<sstream>
+

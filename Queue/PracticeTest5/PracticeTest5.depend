@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501551076 source:c:\sakshi\algorithms\queue\practicetest5\main.cpp
+	<iostream>
+	<vector>
+

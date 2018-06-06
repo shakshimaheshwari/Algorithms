@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1502828735 source:c:\sakshi\algorithms\queue\practicetest19\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<set>
+	<math.h>
+

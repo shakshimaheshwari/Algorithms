@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476649258 source:c:\sakshi\algorithms\queue\practicetwitter\main.cpp
+	<iostream>
+	<vector>
+

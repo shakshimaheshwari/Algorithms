@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476417053 source:c:\sakshi\algorithms\queue\bloomberg\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<climits>
+	<vector>
+	<map>
+

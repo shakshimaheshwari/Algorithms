@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476918313 source:c:\sakshi\algorithms\queue\timepasspractice\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

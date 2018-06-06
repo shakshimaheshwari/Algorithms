@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472719400 source:c:\sakshi\algorithms\string\stringpractice8\main.cpp
+	<iostream>
+	<string>
+	<map>
+

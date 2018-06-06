@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470523787 source:c:\sakshi\algorithms\trees\treespractice2\main.cpp
+	<iostream>
+	<stack>
+

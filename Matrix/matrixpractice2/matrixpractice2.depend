@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472887313 source:c:\sakshi\algorithms\matrix\matrixpractice2\main.cpp
+	<iostream>
+	<climits>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1503017793 source:c:\sakshi\algorithms\queue\practicetest20\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	<unordered_map>
+	<queue>
+

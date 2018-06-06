@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499114270 source:c:\sakshi\algorithms\queue\c++11 assignment\main.cpp
+	<iostream>
+	<string>
+	<map>
+

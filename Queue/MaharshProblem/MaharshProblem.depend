@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512254883 source:c:\sakshi\algorithms\queue\maharshproblem\main.cpp
+	<iostream>
+	<unordered_map>
+	<string>
+

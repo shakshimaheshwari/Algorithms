@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485660246 source:c:\sakshi\algorithms\queue\practicefidessa\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+
